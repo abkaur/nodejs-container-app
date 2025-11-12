@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-container-app",
+  "version": "1.0.0",
+  "description": "Week 10 - Docker + GitHub Actions demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
