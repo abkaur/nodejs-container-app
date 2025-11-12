@@ -25,5 +25,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: docker.io/<YOUR_DOCKERHUB_USERNAME>/nodejs-container-app:latest
+          tags: docker.io/abkaur95/nodejs-container-app:latest
           # example: docker.io/abkaur95/nodejs-container-app:latest
